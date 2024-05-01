@@ -6,10 +6,15 @@ This repository contains a simple exercise app for unit conversion in order to l
 Users can enter a numerical value and select the input and output units of measurement. 
 The app will convert the value to the selected unit and display it.
 
+## Screenshots
+
+<img src="https://github.com/simone-di-paolo/UnitConverter/assets/24905857/c57a1dcb-8fc3-45ca-af47-99c391e2331a" width="200px">
+<img src="https://github.com/simone-di-paolo/UnitConverter/assets/24905857/059c7fcd-eaf6-4624-81b7-7b3aedd507c8" width="200px">
+
+
 ## Features
 
-Conversion of basic units (e.g., length, weight, temperature)
-Simple and intuitive user interface
+Conversion of basic units (e.g., centimeters, milimeters, feets...)
 Support for various units of measurement
 ## Technologies Used
 
