@@ -6,6 +6,9 @@ This repository contains a simple exercise app for unit conversion in order to l
 Users can enter a numerical value and select the input and output units of measurement. 
 The app will convert the value to the selected unit and display it.
 
+This exercise has been developed by following the Udemy course <a href="https://www.udemy.com/course/android-kotlin-developer/?couponCode=KEEPLEARNING">The Complete Android 14 & Kotlin Development Masterclass</a>
+with some small changes made on my side.
+
 ## Screenshots
 
 <img src="https://github.com/simone-di-paolo/UnitConverter/assets/24905857/c57a1dcb-8fc3-45ca-af47-99c391e2331a" width="200px">
